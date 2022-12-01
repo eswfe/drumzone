@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+  <meta charset="utf-8">
+    <title>HTML</title>
+    <style>
+      video { max-width: 80%; display: block; margin: 20px auto; }
+    </style>
+  </head>
+  <body>
+    <video muted autoplay loop>
+      <source src="http://gofile.me/74xr1/N9C88DQdg">
+      <strong>Your browser does not support the video tag.</strong>
+    </video>
+  </body>
+</html>
